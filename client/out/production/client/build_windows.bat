@@ -6,8 +6,8 @@ chcp 65001
 
 echo.
 
-SET newclasspath=".;%CLASSPATHjava%;%CLASSPATHjava%/MG2D.jar;%CLASSPATHjava%/java_websocket.jar"
-echo Classpath système : %CLASSPATHjava%
+SET newclasspath=".;%CLASSPATH%;./libs/MG2D.jar;./libs/java_websocket.jar"
+echo Classpath système : %CLASSPATH%
 echo Classpath appliqué : %newclasspath%
 
 echo.
