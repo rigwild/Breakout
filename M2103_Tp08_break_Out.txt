@@ -1,0 +1,20 @@
+Vous connaissez le jeu Break Out ? Non ? Et bien vous allez en faire la connaissance :)
+https://www.megableu.com/break-out.php
+
+Le but de ce projet est de développer ce jeu en utilisant la bibliothèque MG2D.
+
+Il est fortement conseiller d'utiliser la même méthode que pour le puissance 4 :
+1- développez le moteur du jeu (ajoutez la possibilité pour l'utilisateur de créer des grilles de taille personnalisable - autre que 5x5)
+2- développez l'interface graphique
+
+Un exemple de développement de ce jeu est donné sur la vidéo suivante :
+http://www-lisic.univ-littoral.fr/~synave/videos/breakOut.ogv
+
+La note maximale sera obtenue si le jeu est jouable, sans bug, documenté (manuel utilisateur), commenté (javadoc), correctement conçu (architecture, classe, etc) et un code d'une qualité irréprochable (nom de variable bien choisi, lisible, indenté, algorithmique sans faille, etc.).
+
+Lorsque vous aurez terminé de programmer votre jeu, vous pourrez :
+- ajouter un système de bonus : pouvoir supprimer une case grâce à une bombe, pouvoir supprimer une ligne ou une colonne complète grâce à un rayon laser, pouvoir déplacer un prisonnier (le votre ou celui de votre adversaire), etc
+- ajouter une intelligence artificielle.
+- autre chose... Faites preuve d'imagination.
+
+Vous avez 7 séances pour réaliser ce TP. La deadline est fixée au Dimanche 10 Juin 2018 à 23h55.
